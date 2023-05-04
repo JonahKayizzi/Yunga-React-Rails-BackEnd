@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="yuunga.png" alt="logo" width="140"  height="auto" />
+  <img src="yuunga.png" alt="logo" width="850"  height="auto" />
   <br/>
 
   <h3><b>Yuunga Back-End</b></h3>
